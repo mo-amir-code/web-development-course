@@ -1,0 +1,54 @@
+<meta>
+<link>
+<style>
+<script>
+
+
+Text Content Tags
+<br>
+<hr>
+<strong>
+<em>
+<b>
+<i>
+<u>
+<small>
+<mark>
+<del>
+<sub>
+<sup>
+<span>
+<div>
+
+List Tags
+<ul>
+<ol>
+<li>
+<dl>
+<dt>
+<dd>
+
+
+Media Tags
+<img>
+<audio>
+<video>
+<source>
+<iframe>
+
+Form Tags
+<form>
+<input>
+<textarea>
+<select>
+<option>
+<button>
+<label>
+
+Table Tags
+<table>
+<thead>
+<tbody>
+<tr>
+<th>
+<td>
